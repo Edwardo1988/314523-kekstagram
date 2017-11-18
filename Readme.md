@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Эдуард Галиев](https://up.htmlacademy.ru/javascript/11/user/314523).
-* Наставник: `Неизвестно`.
+* Наставник: [Ренат Туктаров](https://htmlacademy.ru/profile/id408799).
 
 ---
 
